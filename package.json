@@ -1,12 +1,19 @@
 {
-  "name": "Aurora",
-  "version": "1.0.0",
-  "description": "",
+  "name": "aurora",
+  "version": "0.1.0",
+  "license": "GPL-3.0-or-later",
+  "description": "Project Aurora is a prototype ultimate school management system.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabecoatess/aurora.git"
+  },
+  "author": {
+    "name": "Gabriel Coates",
+    "email": "gabrielrcoates@outlook.com",
+    "url": "https://gabecoatess.github.io/"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "start": "echo \"Error: no test specified\" && exit 1"
+  }
 }
