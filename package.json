@@ -12,8 +12,11 @@
     "email": "gabrielrcoates@outlook.com",
     "url": "https://gabecoatess.github.io/"
   },
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^2.6.12"
   }
 }
