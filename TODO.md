@@ -1,7 +1,7 @@
 # Aurora To-Do list
 ## Everything on this list is subject to change, more information can be found in the features list
 
-## Desktop App
+## Web App
 
 - [ ] Create basic time management system
 - [ ] Create basic class management system
